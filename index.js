@@ -1,6 +1,7 @@
 const express = require("express");
 const app = express();
 const cors = require("cors");
+const allChef = require("./data/allChef.json");
 
 const port = process.env.PORT || 5000;
 
@@ -8,7 +9,11 @@ app.use(cors());
 
 // Define routes
 app.get("/", (req, res) => {
-	res.send("Hello, World! Testing");
+	res.send("Chef Available");
+});
+
+app.get("/allChef", (req, res) => {
+	res.send(allChef);
 });
 
 // Start server

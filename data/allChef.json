@@ -1,0 +1,56 @@
+[
+	{
+		"id": 1,
+		"picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuPOsgxtCH_2QPqrvzDsRxdDh7gWuqVWFdQA&usqp=CAU",
+		"name": "Maria Rodriguez",
+		"years_of_experience": 10,
+		"no_of_recipes": 100,
+		"likes": 5000,
+		"bio": "I come from a family of chefs and have been cooking since I was a child. My specialty is traditional American cuisine, and I love sharing my recipes with others. Follow me for some authentic and delicious American dishes!"
+	},
+	{
+		"id": 2,
+		"picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpbRwO7TJnACZ9z2wBz1YWp-TwtLv7X3k4-Q&usqp=CAU",
+		"name": "David Lee",
+		"years_of_experience": 8,
+		"no_of_recipes": 75,
+		"likes": 2500,
+		"bio": "I am a self-taught chef and love experimenting with fusion cuisine. My dishes are a blend of Asian and Western flavors, and I am always coming up with new and exciting combinations. Follow me for some unique and delicious dishes that will surprise your taste buds!"
+	},
+	{
+		"id": 3,
+		"picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxIEByeLetFCJ3ZyzezWNQiu0ub79n97H8iQ&usqp=CAU",
+		"name": "Sara Kim",
+		"years_of_experience": 6,
+		"no_of_recipes": 60,
+		"likes": 2000,
+		"bio": "I am a Korean-American chef who combines traditional Korean flavors with modern techniques. My dishes are healthy and flavorful, and I love introducing new ingredients and flavors to my audience. Follow me for some fresh and delicious Korean-inspired dishes!"
+	},
+	{
+		"id": 4,
+		"picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQAELr-04SU1dp1beAS8E9QRBgiWOCKJ-v2n6E0I1f-o8XSEnpx3vJm_fRWvkS7NiWPqg&usqp=CAU",
+		"name": "Elena Gomez",
+		"years_of_experience": 12,
+		"no_of_recipes": 120,
+		"likes": 8000,
+		"bio": "I am a professional chef with experience working in some of the top restaurants in the world. My cuisine is inspired by my travels and combines flavors from different cultures. Follow me for some culinary adventures and inspiration!"
+	},
+	{
+		"id": 5,
+		"picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ybyfZSi6EbLpy7HfUjVEfJJTcspuubdNBAMqOUGeK2exgbicCTKrBsvMGE636Q6UPMM&usqp=CAU",
+		"name": "Michael Johnson",
+		"years_of_experience": 7,
+		"no_of_recipes": 80,
+		"likes": 3000,
+		"bio": "I am a vegetarian chef who believes in creating delicious and healthy plant-based dishes. My recipes are simple and easy to follow, and I love using fresh and seasonal ingredients. Follow me for some delicious and satisfying vegetarian dishes!"
+	},
+	{
+		"id": 6,
+		"picture": "image.png",
+		"name": "Luca Rossi",
+		"years_of_experience": 9,
+		"no_of_recipes": 90,
+		"likes": 4000,
+		"bio": "I am an American chef with a passion for simple and delicious cuisine. My dishes are inspired by the Mediterranean diet and focus on using fresh and seasonal ingredients. Follow me for some authentic and mouth-watering American recipes!"
+	}
+]
