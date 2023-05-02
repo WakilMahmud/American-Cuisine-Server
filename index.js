@@ -8,7 +8,7 @@ app.use(cors());
 
 // Define routes
 app.get("/", (req, res) => {
-	res.send("Hello, World!");
+	res.send("Hello, World! Testing");
 });
 
 // Start server
