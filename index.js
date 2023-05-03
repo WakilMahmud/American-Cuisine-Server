@@ -1,24 +1,22 @@
 const express = require("express");
 const app = express();
 const cors = require("cors");
+const port = process.env.PORT || 5000;
+
 const allChef = require("./data/allChef.json");
 const chefRecipes = require("./data/chefRecipes.json");
-
-const port = process.env.PORT || 5000;
 
 app.use(cors());
 
 // Define routes
 app.get("/", (req, res) => {
-	res.send("Chef Available");
-});
-
-app.get("/allChef", (req, res) => {
 	res.send(allChef);
 });
 
-app.get("/allChef/:id", (req, res) => {
-	res.send(chefRecipes);
+app.get("/recipes/:id", (req, res) => {
+	const id = req.params.id;
+	const selectedRecipes = chefRecipes.find((recipe) => recipe.chef_id == id);
+	res.send(selectedRecipes);
 });
 
 // Start server
