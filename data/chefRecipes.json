@@ -4,61 +4,27 @@
 		"recipes": [
 			{
 				"meal_id": 52855,
-				"recipe_name": "Banana Pancakes",
-				"meal_pic": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
-				"ingredients": {
-					"strIngredient1": "Banana",
-					"strIngredient2": "Eggs",
-					"strIngredient3": "Baking Powder",
-					"strIngredient4": "Vanilla Extract",
-					"strIngredient5": "Oil",
-					"strIngredient6": "Pecan Nuts",
-					"strIngredient7": "Raspberries"
-				},
-				"cooking_method": "In a bowl, mash the banana with a fork until it resembles a thick purée. Stir in the eggs, baking powder and vanilla.\r\nHeat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil. Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate. Repeat the process with the remaining oil and batter. Top the pancakes with the pecans and raspberries.",
-				"rating": 5
+				"meal_pic": "https://media.istockphoto.com/id/1282159392/photo/fresh-tasty-double-hamburger-on-black-background.jpg?b=1&s=170667a&w=0&k=20&c=yz3XQVIadZFA3M-BGXX36P2iXgXDQzM8RARTpEcwqWI=",
+				"name": "Classic Cheeseburger",
+				"ingredients": ["Ground beef", "Salt", "Pepper", "American cheese", "Burger bun"],
+				"method": "Grill the beef patty until cooked to your liking. Add salt and pepper. Melt the cheese on top. Toast the bun. Assemble the burger.",
+				"rating": 4.5
 			},
 			{
 				"meal_id": 52995,
-				"recipe_name": "BBQ Pork Sloppy Joes",
-				"meal_pic": "https://www.themealdb.com/images/media/meals/atd5sh1583188467.jpg",
-				"ingredients": {
-					"strIngredient1": "Potatoes",
-					"strIngredient2": "Red Onions",
-					"strIngredient3": "Garlic",
-					"strIngredient4": "Lime",
-					"strIngredient5": "Bread",
-					"strIngredient6": "Pork",
-					"strIngredient7": "Barbeque Sauce",
-					"strIngredient8": "Hotsauce",
-					"strIngredient9": "Tomato Ketchup",
-					"strIngredient10": "Sugar",
-					"strIngredient11": "Vegetable Oil",
-					"strIngredient12": "Salt",
-					"strIngredient13": "Pepper"
-				},
-				"cooking_method": "1\r\n\r\nPreheat oven to 450 degrees. Wash and dry all produce. Cut sweet potatoes into ½-inch-thick wedges. Toss on a baking sheet with a drizzle of oil, salt, and pepper. Roast until browned and tender, 20-25 minutes.\r\n\r\n2\r\n\r\nMeanwhile, halve and peel onion. Slice as thinly as possible until you have ¼ cup (½ cup for 4 servings); finely chop remaining onion. Peel and finely chop garlic. Halve lime; squeeze juice into a small bowl. Halve buns. Add 1 TBSP butter (2 TBSP for 4) to a separate small microwave-safe bowl; microwave until melted, 30 seconds. Brush onto cut sides of buns.\r\n\r\n3\r\n\r\nTo bowl with lime juice, add sliced onion, ¼ tsp sugar (½ tsp for 4 servings), and a pinch of salt. Stir to combine; set aside to quick-pickle.\r\n\r\n4\r\n\r\nHeat a drizzle of oil in a large pan over medium-high heat. Add chopped onion and season with salt and pepper. Cook, stirring, until softened, 4-5 minutes. Add garlic and cook until fragrant, 30 seconds more. Add pork and season with salt and pepper. Cook, breaking up meat into pieces, until browned and cooked through, 4-6 minutes.\r\n\r\n5\r\n\r\nWhile pork cooks, in a third small bowl, combine BBQ sauce, pickling liquid from onion, 3 TBSP ketchup (6 TBSP for 4 servings), ½ tsp sugar (1 tsp for 4), and ¼ cup water (⅓ cup for 4). Once pork is cooked through, add BBQ sauce mixture to pan. Cook, stirring, until sauce is thickened, 2-3 minutes. Taste and season with salt and pepper.\r\n\r\n6\r\n\r\nMeanwhile, toast buns in oven or toaster oven until golden, 3-5 minutes. Divide toasted buns between plates and fill with as much BBQ pork as you’d like. Top with pickled onion and hot sauce. Serve with sweet potato wedges on the side.",
-				"rating": 4
+				"meal_pic": "https://media.istockphoto.com/id/1094663514/photo/medium-rare-top-sirloin-steak-with-asparagus.jpg?b=1&s=170667a&w=0&k=20&c=njJZtEU7wmzm5gpHSPi9PJjIfvaP28O_NNMk9jS3uh4=",
+				"name": "Garlic Butter Steak",
+				"ingredients": ["Sirloin steak", "Butter", "Garlic", "Salt", "Pepper"],
+				"method": "Heat a skillet over high heat. Season the steak with salt and pepper. Cook the steak for 3-4 minutes on each side. Add butter and garlic to the skillet. Baste the steak with the melted butter. Rest the steak for a few minutes before slicing.",
+				"rating": 4.8
 			},
 			{
 				"meal_id": 52812,
-				"recipe_name": "Beef Brisket Pot Roast",
-				"meal_pic": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg",
-				"ingredients": {
-					"strIngredient1": "Beef Brisket",
-					"strIngredient2": "Salt",
-					"strIngredient3": "Onion",
-					"strIngredient4": "Garlic",
-					"strIngredient5": "Thyme",
-					"strIngredient6": "Rosemary",
-					"strIngredient7": "Bay Leaves",
-					"strIngredient8": "beef stock",
-					"strIngredient9": "Carrots",
-					"strIngredient10": "Mustard",
-					"strIngredient11": "Potatoes"
-				},
-				"cooking_method": "1 Prepare the brisket for cooking: On one side of the brisket there should be a layer of fat, which you want. If there are any large chunks of fat, cut them off and discard them. Large pieces of fat will not be able to render out completely.\r\nUsing a sharp knife, score the fat in parallel lines, about 3/4-inch apart. Slice through the fat, not the beef. Repeat in the opposite direction to make a cross-hatch pattern.\r\nSalt the brisket well and let it sit at room temperature for 30 minutes.\r\n \r\n2 Sear the brisket: You'll need an oven-proof, thick-bottomed pot with a cover, or Dutch oven, that is just wide enough to hold the brisket roast with a little room for the onions.\r\nPat the brisket dry and place it, fatty side down, into the pot and place it on medium high heat. Cook for 5-8 minutes, lightly sizzling, until the fat side is nicely browned. (If the roast seems to be cooking too fast, turn the heat down to medium. You want a steady sizzle, not a raging sear.)\r\nTurn the brisket over and cook for a few minutes more to brown the other side.\r\n\r\n3 Sauté the onions and garlic: When the brisket has browned, remove it from the pot and set aside. There should be a couple tablespoons of fat rendered in the pot, if not, add some olive oil.\r\nAdd the chopped onions and increase the heat to high. Sprinkle a little salt on the onions. Sauté, stirring often, until the onions are lightly browned, 5-8 minutes. Stir in the garlic and cook 1-2 more minutes.\r\n \r\n4 Return brisket to pot, add herbs, stock, bring to simmer, cover, cook in oven: Preheat the oven to 300°F. Use kitchen twine to tie together the bay leaves, rosemary and thyme.\r\nMove the onions and garlic to the sides of the pot and nestle the brisket inside. Add the beef stock and the tied-up herbs. Bring the stock to a boil on the stovetop.\r\nCover the pot, place the pot in the 300°F oven and cook for 3 hours. Carefully flip the brisket every hour so it cooks evenly.\r\n \r\n5 Add carrots, continue to cook: After 3 hours, add the carrots. Cover the pot and cook for 1 hour more, or until the carrots are cooked through and the brisket is falling-apart tender.\r\n6 Remove brisket to cutting board, tent with foil: When the brisket is falling-apart tender, take the pot out of the oven and remove the brisket to a cutting board. Cover it with foil. Pull out and discard the herbs.\r\n7 Make sauce (optional): At this point you have two options. You can serve as is, or you can make a sauce with the drippings and some of the onions. If you serve as is, skip this step.\r\nTo make a sauce, remove the carrots and half of the onions, set aside and cover them with foil. Pour the ingredients that are remaining into the pot into a blender, and purée until smooth. If you want, add 1 tablespoon of mustard to the mix. Put into a small pot and keep warm.\r\n8 Slice the meat across the grain: Notice the lines of the muscle fibers of the roast. This is the \"grain\" of the meat. Slice the meat perpendicular to these lines, or across the grain (cutting this way further tenderizes the meat), in 1/4-inch to 1/2-inch slices.\r\nServe with the onions, carrots and gravy. Serve with mashed, roasted or boiled potatoes, egg noodles or polenta.",
-				"rating": 5
+				"meal_pic": "https://images.unsplash.com/photo-1616299908398-9af1134ad522?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8UGVzdG8lMjBQYXN0YXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+				"name": "Pesto Pasta",
+				"ingredients": ["Penne pasta", "Basil", "Garlic", "Parmesan cheese", "Olive oil"],
+				"method": "Cook the pasta according to package instructions. Blend the basil, garlic, Parmesan cheese, and olive oil in a food processor to make the pesto sauce. Toss the pasta with the pesto sauce. Serve with extra Parmesan cheese on top.",
+				"rating": 4.2
 			}
 		]
 	},
@@ -66,62 +32,28 @@
 		"chef_id": 2,
 		"recipes": [
 			{
-				"meal_id": 52855,
-				"recipe_name": "Banana Pancakes",
-				"meal_pic": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
-				"ingredients": {
-					"strIngredient1": "Banana",
-					"strIngredient2": "Eggs",
-					"strIngredient3": "Baking Powder",
-					"strIngredient4": "Vanilla Extract",
-					"strIngredient5": "Oil",
-					"strIngredient6": "Pecan Nuts",
-					"strIngredient7": "Raspberries"
-				},
-				"cooking_method": "In a bowl, mash the banana with a fork until it resembles a thick purée. Stir in the eggs, baking powder and vanilla.\r\nHeat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil. Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate. Repeat the process with the remaining oil and batter. Top the pancakes with the pecans and raspberries.",
-				"rating": 5
+				"meal_id": 51855,
+				"meal_pic": "https://images.unsplash.com/photo-1626082929543-5bab0f090c42?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8RnJpZWQlMjBDaGlja2VufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+				"name": "Crispy Fried Chicken",
+				"ingredients": ["Chicken thighs", "Buttermilk", "Flour", "Cornstarch", "Salt"],
+				"method": "Marinate the chicken thighs in buttermilk for at least 1 hour. Mix the flour, cornstarch, and salt in a separate bowl. Dredge the chicken in the flour mixture. Heat oil in a deep fryer or large pot. Fry the chicken for 10-12 minutes or until golden brown and crispy.",
+				"rating": 4.7
 			},
 			{
-				"meal_id": 52995,
-				"recipe_name": "BBQ Pork Sloppy Joes",
-				"meal_pic": "https://www.themealdb.com/images/media/meals/atd5sh1583188467.jpg",
-				"ingredients": {
-					"strIngredient1": "Potatoes",
-					"strIngredient2": "Red Onions",
-					"strIngredient3": "Garlic",
-					"strIngredient4": "Lime",
-					"strIngredient5": "Bread",
-					"strIngredient6": "Pork",
-					"strIngredient7": "Barbeque Sauce",
-					"strIngredient8": "Hotsauce",
-					"strIngredient9": "Tomato Ketchup",
-					"strIngredient10": "Sugar",
-					"strIngredient11": "Vegetable Oil",
-					"strIngredient12": "Salt",
-					"strIngredient13": "Pepper"
-				},
-				"cooking_method": "1\r\n\r\nPreheat oven to 450 degrees. Wash and dry all produce. Cut sweet potatoes into ½-inch-thick wedges. Toss on a baking sheet with a drizzle of oil, salt, and pepper. Roast until browned and tender, 20-25 minutes.\r\n\r\n2\r\n\r\nMeanwhile, halve and peel onion. Slice as thinly as possible until you have ¼ cup (½ cup for 4 servings); finely chop remaining onion. Peel and finely chop garlic. Halve lime; squeeze juice into a small bowl. Halve buns. Add 1 TBSP butter (2 TBSP for 4) to a separate small microwave-safe bowl; microwave until melted, 30 seconds. Brush onto cut sides of buns.\r\n\r\n3\r\n\r\nTo bowl with lime juice, add sliced onion, ¼ tsp sugar (½ tsp for 4 servings), and a pinch of salt. Stir to combine; set aside to quick-pickle.\r\n\r\n4\r\n\r\nHeat a drizzle of oil in a large pan over medium-high heat. Add chopped onion and season with salt and pepper. Cook, stirring, until softened, 4-5 minutes. Add garlic and cook until fragrant, 30 seconds more. Add pork and season with salt and pepper. Cook, breaking up meat into pieces, until browned and cooked through, 4-6 minutes.\r\n\r\n5\r\n\r\nWhile pork cooks, in a third small bowl, combine BBQ sauce, pickling liquid from onion, 3 TBSP ketchup (6 TBSP for 4 servings), ½ tsp sugar (1 tsp for 4), and ¼ cup water (⅓ cup for 4). Once pork is cooked through, add BBQ sauce mixture to pan. Cook, stirring, until sauce is thickened, 2-3 minutes. Taste and season with salt and pepper.\r\n\r\n6\r\n\r\nMeanwhile, toast buns in oven or toaster oven until golden, 3-5 minutes. Divide toasted buns between plates and fill with as much BBQ pork as you’d like. Top with pickled onion and hot sauce. Serve with sweet potato wedges on the side.",
-				"rating": 4
+				"meal_id": 51995,
+				"meal_pic": "https://images.unsplash.com/photo-1543339494-b4cd4f7ba686?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8TWFjJTIwYW5kJTIwQ2hlZXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+				"name": "Mac and Cheese",
+				"ingredients": ["Elbow macaroni", "Cheddar cheese", "Milk", "Butter", "Flour"],
+				"method": "Cook the macaroni according to package instructions. In a separate pot, melt the butter and whisk in the flour to make a roux. Gradually add the milk and whisk until the sauce thickens. Add the grated cheese and stir until melted. Combine the cheese sauce and macaroni. Bake in the oven for 20-25 minutes or until golden brown and bubbly.",
+				"rating": 4.4
 			},
 			{
-				"meal_id": 52812,
-				"recipe_name": "Beef Brisket Pot Roast",
-				"meal_pic": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg",
-				"ingredients": {
-					"strIngredient1": "Beef Brisket",
-					"strIngredient2": "Salt",
-					"strIngredient3": "Onion",
-					"strIngredient4": "Garlic",
-					"strIngredient5": "Thyme",
-					"strIngredient6": "Rosemary",
-					"strIngredient7": "Bay Leaves",
-					"strIngredient8": "beef stock",
-					"strIngredient9": "Carrots",
-					"strIngredient10": "Mustard",
-					"strIngredient11": "Potatoes"
-				},
-				"cooking_method": "1 Prepare the brisket for cooking: On one side of the brisket there should be a layer of fat, which you want. If there are any large chunks of fat, cut them off and discard them. Large pieces of fat will not be able to render out completely.\r\nUsing a sharp knife, score the fat in parallel lines, about 3/4-inch apart. Slice through the fat, not the beef. Repeat in the opposite direction to make a cross-hatch pattern.\r\nSalt the brisket well and let it sit at room temperature for 30 minutes.\r\n \r\n2 Sear the brisket: You'll need an oven-proof, thick-bottomed pot with a cover, or Dutch oven, that is just wide enough to hold the brisket roast with a little room for the onions.\r\nPat the brisket dry and place it, fatty side down, into the pot and place it on medium high heat. Cook for 5-8 minutes, lightly sizzling, until the fat side is nicely browned. (If the roast seems to be cooking too fast, turn the heat down to medium. You want a steady sizzle, not a raging sear.)\r\nTurn the brisket over and cook for a few minutes more to brown the other side.\r\n\r\n3 Sauté the onions and garlic: When the brisket has browned, remove it from the pot and set aside. There should be a couple tablespoons of fat rendered in the pot, if not, add some olive oil.\r\nAdd the chopped onions and increase the heat to high. Sprinkle a little salt on the onions. Sauté, stirring often, until the onions are lightly browned, 5-8 minutes. Stir in the garlic and cook 1-2 more minutes.\r\n \r\n4 Return brisket to pot, add herbs, stock, bring to simmer, cover, cook in oven: Preheat the oven to 300°F. Use kitchen twine to tie together the bay leaves, rosemary and thyme.\r\nMove the onions and garlic to the sides of the pot and nestle the brisket inside. Add the beef stock and the tied-up herbs. Bring the stock to a boil on the stovetop.\r\nCover the pot, place the pot in the 300°F oven and cook for 3 hours. Carefully flip the brisket every hour so it cooks evenly.\r\n \r\n5 Add carrots, continue to cook: After 3 hours, add the carrots. Cover the pot and cook for 1 hour more, or until the carrots are cooked through and the brisket is falling-apart tender.\r\n6 Remove brisket to cutting board, tent with foil: When the brisket is falling-apart tender, take the pot out of the oven and remove the brisket to a cutting board. Cover it with foil. Pull out and discard the herbs.\r\n7 Make sauce (optional): At this point you have two options. You can serve as is, or you can make a sauce with the drippings and some of the onions. If you serve as is, skip this step.\r\nTo make a sauce, remove the carrots and half of the onions, set aside and cover them with foil. Pour the ingredients that are remaining into the pot into a blender, and purée until smooth. If you want, add 1 tablespoon of mustard to the mix. Put into a small pot and keep warm.\r\n8 Slice the meat across the grain: Notice the lines of the muscle fibers of the roast. This is the \"grain\" of the meat. Slice the meat perpendicular to these lines, or across the grain (cutting this way further tenderizes the meat), in 1/4-inch to 1/2-inch slices.\r\nServe with the onions, carrots and gravy. Serve with mashed, roasted or boiled potatoes, egg noodles or polenta.",
-				"rating": 5
+				"meal_id": 51812,
+				"meal_pic": "https://images.unsplash.com/photo-1628519842646-971123de6ffa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Um9hc3RlZCUyMEJydXNzZWxzJTIwU3Byb3V0c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+				"name": "Roasted Brussels Sprouts",
+				"ingredients": ["Brussels sprouts", "Olive oil", "Garlic", "Salt", "Pepper"],
+				"method": "Preheat the oven to 400°F. Cut the Brussels sprouts in half and toss with olive oil, garlic, salt, and pepper. Spread the Brussels sprouts in a single layer on a baking sheet. Roast for 20-25 minutes or until tender and caramelized.",
+				"rating": 4.1
 			}
 		]
 	},
@@ -129,62 +61,41 @@
 		"chef_id": 3,
 		"recipes": [
 			{
-				"meal_id": 52855,
-				"recipe_name": "Banana Pancakes",
-				"meal_pic": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
-				"ingredients": {
-					"strIngredient1": "Banana",
-					"strIngredient2": "Eggs",
-					"strIngredient3": "Baking Powder",
-					"strIngredient4": "Vanilla Extract",
-					"strIngredient5": "Oil",
-					"strIngredient6": "Pecan Nuts",
-					"strIngredient7": "Raspberries"
-				},
-				"cooking_method": "In a bowl, mash the banana with a fork until it resembles a thick purée. Stir in the eggs, baking powder and vanilla.\r\nHeat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil. Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate. Repeat the process with the remaining oil and batter. Top the pancakes with the pecans and raspberries.",
-				"rating": 5
+				"meal_id": 52355,
+				"meal_pic": "https://images.unsplash.com/photo-1546964053-d018e345e490?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8QmVlZiUyMFdlbGxpbmd0b258ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+				"name": "Beef Wellington",
+				"ingredients": ["Beef tenderloin", "Mushrooms", "Thyme", "Parma ham", "Puff pastry", "Egg wash", "Salt and pepper"],
+				"method": "1. Season the beef tenderloin with salt and pepper.\n2. Sear it in a hot pan until browned on all sides.\n3. Let it cool in the fridge for 30 minutes.\n4. Spread the mushroom mixture over the parma ham.\n5. Wrap the beef in the parma ham and mushroom mixture.\n6. Wrap the puff pastry around the beef, brush with egg wash and bake for 35-40 minutes.\n7. Let it rest for 10 minutes before serving.",
+				"rating": 4.5
 			},
 			{
-				"meal_id": 52995,
-				"recipe_name": "BBQ Pork Sloppy Joes",
-				"meal_pic": "https://www.themealdb.com/images/media/meals/atd5sh1583188467.jpg",
-				"ingredients": {
-					"strIngredient1": "Potatoes",
-					"strIngredient2": "Red Onions",
-					"strIngredient3": "Garlic",
-					"strIngredient4": "Lime",
-					"strIngredient5": "Bread",
-					"strIngredient6": "Pork",
-					"strIngredient7": "Barbeque Sauce",
-					"strIngredient8": "Hotsauce",
-					"strIngredient9": "Tomato Ketchup",
-					"strIngredient10": "Sugar",
-					"strIngredient11": "Vegetable Oil",
-					"strIngredient12": "Salt",
-					"strIngredient13": "Pepper"
-				},
-				"cooking_method": "1\r\n\r\nPreheat oven to 450 degrees. Wash and dry all produce. Cut sweet potatoes into ½-inch-thick wedges. Toss on a baking sheet with a drizzle of oil, salt, and pepper. Roast until browned and tender, 20-25 minutes.\r\n\r\n2\r\n\r\nMeanwhile, halve and peel onion. Slice as thinly as possible until you have ¼ cup (½ cup for 4 servings); finely chop remaining onion. Peel and finely chop garlic. Halve lime; squeeze juice into a small bowl. Halve buns. Add 1 TBSP butter (2 TBSP for 4) to a separate small microwave-safe bowl; microwave until melted, 30 seconds. Brush onto cut sides of buns.\r\n\r\n3\r\n\r\nTo bowl with lime juice, add sliced onion, ¼ tsp sugar (½ tsp for 4 servings), and a pinch of salt. Stir to combine; set aside to quick-pickle.\r\n\r\n4\r\n\r\nHeat a drizzle of oil in a large pan over medium-high heat. Add chopped onion and season with salt and pepper. Cook, stirring, until softened, 4-5 minutes. Add garlic and cook until fragrant, 30 seconds more. Add pork and season with salt and pepper. Cook, breaking up meat into pieces, until browned and cooked through, 4-6 minutes.\r\n\r\n5\r\n\r\nWhile pork cooks, in a third small bowl, combine BBQ sauce, pickling liquid from onion, 3 TBSP ketchup (6 TBSP for 4 servings), ½ tsp sugar (1 tsp for 4), and ¼ cup water (⅓ cup for 4). Once pork is cooked through, add BBQ sauce mixture to pan. Cook, stirring, until sauce is thickened, 2-3 minutes. Taste and season with salt and pepper.\r\n\r\n6\r\n\r\nMeanwhile, toast buns in oven or toaster oven until golden, 3-5 minutes. Divide toasted buns between plates and fill with as much BBQ pork as you’d like. Top with pickled onion and hot sauce. Serve with sweet potato wedges on the side.",
-				"rating": 4
+				"meal_id": 52395,
+				"meal_pic": "https://images.unsplash.com/photo-1615557960916-5f4791effe9d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Um9hc3QlMjBDaGlja2VufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+				"name": "Roast Chicken",
+				"ingredients": ["Whole chicken", "Lemon", "Garlic", "Thyme", "Butter", "Salt and pepper"],
+				"method": "1. Preheat the oven to 425 degrees F.\n2. Rinse the chicken and pat it dry with paper towels.\n3. Season the cavity of the chicken with salt and pepper.\n4. Stuff the cavity with the lemon and garlic.\n5. Tie the legs together with kitchen twine.\n6. Spread the butter over the chicken and season with salt, pepper and thyme.\n7. Roast the chicken for 1 hour and 15 minutes or until the internal temperature reaches 165 degrees F.\n8. Let it rest for 10 minutes before carving.",
+				"rating": 4.2
 			},
 			{
 				"meal_id": 52812,
-				"recipe_name": "Beef Brisket Pot Roast",
-				"meal_pic": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg",
-				"ingredients": {
-					"strIngredient1": "Beef Brisket",
-					"strIngredient2": "Salt",
-					"strIngredient3": "Onion",
-					"strIngredient4": "Garlic",
-					"strIngredient5": "Thyme",
-					"strIngredient6": "Rosemary",
-					"strIngredient7": "Bay Leaves",
-					"strIngredient8": "beef stock",
-					"strIngredient9": "Carrots",
-					"strIngredient10": "Mustard",
-					"strIngredient11": "Potatoes"
-				},
-				"cooking_method": "1 Prepare the brisket for cooking: On one side of the brisket there should be a layer of fat, which you want. If there are any large chunks of fat, cut them off and discard them. Large pieces of fat will not be able to render out completely.\r\nUsing a sharp knife, score the fat in parallel lines, about 3/4-inch apart. Slice through the fat, not the beef. Repeat in the opposite direction to make a cross-hatch pattern.\r\nSalt the brisket well and let it sit at room temperature for 30 minutes.\r\n \r\n2 Sear the brisket: You'll need an oven-proof, thick-bottomed pot with a cover, or Dutch oven, that is just wide enough to hold the brisket roast with a little room for the onions.\r\nPat the brisket dry and place it, fatty side down, into the pot and place it on medium high heat. Cook for 5-8 minutes, lightly sizzling, until the fat side is nicely browned. (If the roast seems to be cooking too fast, turn the heat down to medium. You want a steady sizzle, not a raging sear.)\r\nTurn the brisket over and cook for a few minutes more to brown the other side.\r\n\r\n3 Sauté the onions and garlic: When the brisket has browned, remove it from the pot and set aside. There should be a couple tablespoons of fat rendered in the pot, if not, add some olive oil.\r\nAdd the chopped onions and increase the heat to high. Sprinkle a little salt on the onions. Sauté, stirring often, until the onions are lightly browned, 5-8 minutes. Stir in the garlic and cook 1-2 more minutes.\r\n \r\n4 Return brisket to pot, add herbs, stock, bring to simmer, cover, cook in oven: Preheat the oven to 300°F. Use kitchen twine to tie together the bay leaves, rosemary and thyme.\r\nMove the onions and garlic to the sides of the pot and nestle the brisket inside. Add the beef stock and the tied-up herbs. Bring the stock to a boil on the stovetop.\r\nCover the pot, place the pot in the 300°F oven and cook for 3 hours. Carefully flip the brisket every hour so it cooks evenly.\r\n \r\n5 Add carrots, continue to cook: After 3 hours, add the carrots. Cover the pot and cook for 1 hour more, or until the carrots are cooked through and the brisket is falling-apart tender.\r\n6 Remove brisket to cutting board, tent with foil: When the brisket is falling-apart tender, take the pot out of the oven and remove the brisket to a cutting board. Cover it with foil. Pull out and discard the herbs.\r\n7 Make sauce (optional): At this point you have two options. You can serve as is, or you can make a sauce with the drippings and some of the onions. If you serve as is, skip this step.\r\nTo make a sauce, remove the carrots and half of the onions, set aside and cover them with foil. Pour the ingredients that are remaining into the pot into a blender, and purée until smooth. If you want, add 1 tablespoon of mustard to the mix. Put into a small pot and keep warm.\r\n8 Slice the meat across the grain: Notice the lines of the muscle fibers of the roast. This is the \"grain\" of the meat. Slice the meat perpendicular to these lines, or across the grain (cutting this way further tenderizes the meat), in 1/4-inch to 1/2-inch slices.\r\nServe with the onions, carrots and gravy. Serve with mashed, roasted or boiled potatoes, egg noodles or polenta.",
-				"rating": 5
+				"meal_pic": "https://images.unsplash.com/photo-1622973536968-3ead9e780960?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8U3BhZ2hldHRpJTIwQm9sb2duZXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+				"name": "Spaghetti Bolognese",
+				"ingredients": [
+					"Spaghetti",
+					"Ground beef",
+					"Onion",
+					"Carrot",
+					"Celery",
+					"Tomato paste",
+					"Canned tomatoes",
+					"Red wine",
+					"Bay leaves",
+					"Garlic",
+					"Olive oil",
+					"Salt and pepper"
+				],
+				"method": "1. Cook the spaghetti according to the package instructions.\n2. Heat the olive oil in a large pan and cook the onion, carrot and celery until softened.\n3. Add the garlic and cook for another minute.\n4. Add the ground beef and cook until browned.\n5. Add the tomato paste and cook for 1 minute.\n6. Add the canned tomatoes, red wine, bay leaves and salt and pepper.\n7. Simmer for 30-40 minutes.\n8. Serve the sauce over the cooked spaghetti.",
+				"rating": 4.7
 			}
 		]
 	},
@@ -192,62 +103,28 @@
 		"chef_id": 4,
 		"recipes": [
 			{
-				"meal_id": 52855,
-				"recipe_name": "Banana Pancakes",
-				"meal_pic": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
-				"ingredients": {
-					"strIngredient1": "Banana",
-					"strIngredient2": "Eggs",
-					"strIngredient3": "Baking Powder",
-					"strIngredient4": "Vanilla Extract",
-					"strIngredient5": "Oil",
-					"strIngredient6": "Pecan Nuts",
-					"strIngredient7": "Raspberries"
-				},
-				"cooking_method": "In a bowl, mash the banana with a fork until it resembles a thick purée. Stir in the eggs, baking powder and vanilla.\r\nHeat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil. Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate. Repeat the process with the remaining oil and batter. Top the pancakes with the pecans and raspberries.",
-				"rating": 5
+				"meal_id": 54855,
+				"meal_pic": "https://media.istockphoto.com/id/483671291/photo/beef-and-barley-soup.jpg?b=1&s=170667a&w=0&k=20&c=7IrTES2vyn1l2NVv_ewFjU65k31ovDuR4vIk9zElF3o=",
+				"name": "Boeuf Bourguignon",
+				"ingredients": ["3 lbs beef chuck roast", "1 bottle red wine", "2 cups beef broth", "2 onions", "2 cloves garlic", "1 lb mushrooms"],
+				"method": "Preheat the oven to 325°F. Brown the beef in a dutch oven, then add onions, garlic, mushrooms, and red wine. Cover with beef broth, then place in the oven and cook for 3-4 hours, or until the beef is tender.",
+				"rating": 4.7
 			},
 			{
-				"meal_id": 52995,
-				"recipe_name": "BBQ Pork Sloppy Joes",
-				"meal_pic": "https://www.themealdb.com/images/media/meals/atd5sh1583188467.jpg",
-				"ingredients": {
-					"strIngredient1": "Potatoes",
-					"strIngredient2": "Red Onions",
-					"strIngredient3": "Garlic",
-					"strIngredient4": "Lime",
-					"strIngredient5": "Bread",
-					"strIngredient6": "Pork",
-					"strIngredient7": "Barbeque Sauce",
-					"strIngredient8": "Hotsauce",
-					"strIngredient9": "Tomato Ketchup",
-					"strIngredient10": "Sugar",
-					"strIngredient11": "Vegetable Oil",
-					"strIngredient12": "Salt",
-					"strIngredient13": "Pepper"
-				},
-				"cooking_method": "1\r\n\r\nPreheat oven to 450 degrees. Wash and dry all produce. Cut sweet potatoes into ½-inch-thick wedges. Toss on a baking sheet with a drizzle of oil, salt, and pepper. Roast until browned and tender, 20-25 minutes.\r\n\r\n2\r\n\r\nMeanwhile, halve and peel onion. Slice as thinly as possible until you have ¼ cup (½ cup for 4 servings); finely chop remaining onion. Peel and finely chop garlic. Halve lime; squeeze juice into a small bowl. Halve buns. Add 1 TBSP butter (2 TBSP for 4) to a separate small microwave-safe bowl; microwave until melted, 30 seconds. Brush onto cut sides of buns.\r\n\r\n3\r\n\r\nTo bowl with lime juice, add sliced onion, ¼ tsp sugar (½ tsp for 4 servings), and a pinch of salt. Stir to combine; set aside to quick-pickle.\r\n\r\n4\r\n\r\nHeat a drizzle of oil in a large pan over medium-high heat. Add chopped onion and season with salt and pepper. Cook, stirring, until softened, 4-5 minutes. Add garlic and cook until fragrant, 30 seconds more. Add pork and season with salt and pepper. Cook, breaking up meat into pieces, until browned and cooked through, 4-6 minutes.\r\n\r\n5\r\n\r\nWhile pork cooks, in a third small bowl, combine BBQ sauce, pickling liquid from onion, 3 TBSP ketchup (6 TBSP for 4 servings), ½ tsp sugar (1 tsp for 4), and ¼ cup water (⅓ cup for 4). Once pork is cooked through, add BBQ sauce mixture to pan. Cook, stirring, until sauce is thickened, 2-3 minutes. Taste and season with salt and pepper.\r\n\r\n6\r\n\r\nMeanwhile, toast buns in oven or toaster oven until golden, 3-5 minutes. Divide toasted buns between plates and fill with as much BBQ pork as you’d like. Top with pickled onion and hot sauce. Serve with sweet potato wedges on the side.",
-				"rating": 4
+				"meal_id": 54995,
+				"meal_pic": "https://images.unsplash.com/photo-1464093515883-ec948246accb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8TG9ic3RlciUyMFJpc290dG98ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+				"name": "Lobster Risotto",
+				"ingredients": ["1 lb lobster meat", "1 cup Arborio rice", "4 cups chicken stock", "1 onion", "2 cloves garlic", "1/2 cup white wine"],
+				"method": "Sauté the onions and garlic in a hot skillet, then add Arborio rice and white wine. Gradually add chicken stock, stirring constantly, until the rice is cooked. Add cooked lobster meat and serve.",
+				"rating": 4.6
 			},
 			{
-				"meal_id": 52812,
-				"recipe_name": "Beef Brisket Pot Roast",
-				"meal_pic": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg",
-				"ingredients": {
-					"strIngredient1": "Beef Brisket",
-					"strIngredient2": "Salt",
-					"strIngredient3": "Onion",
-					"strIngredient4": "Garlic",
-					"strIngredient5": "Thyme",
-					"strIngredient6": "Rosemary",
-					"strIngredient7": "Bay Leaves",
-					"strIngredient8": "beef stock",
-					"strIngredient9": "Carrots",
-					"strIngredient10": "Mustard",
-					"strIngredient11": "Potatoes"
-				},
-				"cooking_method": "1 Prepare the brisket for cooking: On one side of the brisket there should be a layer of fat, which you want. If there are any large chunks of fat, cut them off and discard them. Large pieces of fat will not be able to render out completely.\r\nUsing a sharp knife, score the fat in parallel lines, about 3/4-inch apart. Slice through the fat, not the beef. Repeat in the opposite direction to make a cross-hatch pattern.\r\nSalt the brisket well and let it sit at room temperature for 30 minutes.\r\n \r\n2 Sear the brisket: You'll need an oven-proof, thick-bottomed pot with a cover, or Dutch oven, that is just wide enough to hold the brisket roast with a little room for the onions.\r\nPat the brisket dry and place it, fatty side down, into the pot and place it on medium high heat. Cook for 5-8 minutes, lightly sizzling, until the fat side is nicely browned. (If the roast seems to be cooking too fast, turn the heat down to medium. You want a steady sizzle, not a raging sear.)\r\nTurn the brisket over and cook for a few minutes more to brown the other side.\r\n\r\n3 Sauté the onions and garlic: When the brisket has browned, remove it from the pot and set aside. There should be a couple tablespoons of fat rendered in the pot, if not, add some olive oil.\r\nAdd the chopped onions and increase the heat to high. Sprinkle a little salt on the onions. Sauté, stirring often, until the onions are lightly browned, 5-8 minutes. Stir in the garlic and cook 1-2 more minutes.\r\n \r\n4 Return brisket to pot, add herbs, stock, bring to simmer, cover, cook in oven: Preheat the oven to 300°F. Use kitchen twine to tie together the bay leaves, rosemary and thyme.\r\nMove the onions and garlic to the sides of the pot and nestle the brisket inside. Add the beef stock and the tied-up herbs. Bring the stock to a boil on the stovetop.\r\nCover the pot, place the pot in the 300°F oven and cook for 3 hours. Carefully flip the brisket every hour so it cooks evenly.\r\n \r\n5 Add carrots, continue to cook: After 3 hours, add the carrots. Cover the pot and cook for 1 hour more, or until the carrots are cooked through and the brisket is falling-apart tender.\r\n6 Remove brisket to cutting board, tent with foil: When the brisket is falling-apart tender, take the pot out of the oven and remove the brisket to a cutting board. Cover it with foil. Pull out and discard the herbs.\r\n7 Make sauce (optional): At this point you have two options. You can serve as is, or you can make a sauce with the drippings and some of the onions. If you serve as is, skip this step.\r\nTo make a sauce, remove the carrots and half of the onions, set aside and cover them with foil. Pour the ingredients that are remaining into the pot into a blender, and purée until smooth. If you want, add 1 tablespoon of mustard to the mix. Put into a small pot and keep warm.\r\n8 Slice the meat across the grain: Notice the lines of the muscle fibers of the roast. This is the \"grain\" of the meat. Slice the meat perpendicular to these lines, or across the grain (cutting this way further tenderizes the meat), in 1/4-inch to 1/2-inch slices.\r\nServe with the onions, carrots and gravy. Serve with mashed, roasted or boiled potatoes, egg noodles or polenta.",
-				"rating": 5
+				"meal_id": 54812,
+				"meal_pic": "https://images.unsplash.com/photo-1588168333986-5078d3ae3976?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8R3JpbGxlZCUyMFN0ZWFrfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+				"name": "Grilled Steak",
+				"ingredients": ["2 ribeye steaks", "2 cloves garlic", "2 sprigs rosemary", "1/4 cup olive oil", "salt and pepper"],
+				"method": "Preheat the grill to high heat. Rub the steaks with garlic and rosemary, then brush with olive oil and season with salt and pepper. Grill for 4-5 minutes per side, or until desired doneness is reached.",
+				"rating": 4.3
 			}
 		]
 	},
@@ -255,62 +132,28 @@
 		"chef_id": 5,
 		"recipes": [
 			{
-				"meal_id": 52855,
-				"recipe_name": "Banana Pancakes",
-				"meal_pic": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
-				"ingredients": {
-					"strIngredient1": "Banana",
-					"strIngredient2": "Eggs",
-					"strIngredient3": "Baking Powder",
-					"strIngredient4": "Vanilla Extract",
-					"strIngredient5": "Oil",
-					"strIngredient6": "Pecan Nuts",
-					"strIngredient7": "Raspberries"
-				},
-				"cooking_method": "In a bowl, mash the banana with a fork until it resembles a thick purée. Stir in the eggs, baking powder and vanilla.\r\nHeat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil. Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate. Repeat the process with the remaining oil and batter. Top the pancakes with the pecans and raspberries.",
-				"rating": 5
+				"meal_id": 57855,
+				"meal_pic": "https://plus.unsplash.com/premium_photo-1667233385688-fe3618a52ac5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8QmFrZWQlMjBNYWMlMjBhbmQlMjBDaGVlc2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+				"name": "Baked Mac and Cheese",
+				"ingredients": ["Macaroni", "Butter", "Flour", "Milk", "Cheddar Cheese", "Breadcrumbs"],
+				"method": "1. Cook macaroni according to package instructions. \n2. In a separate pot, melt butter and whisk in flour to create a roux. \n3. Gradually add milk, stirring constantly, until mixture thickens. \n4. Add grated cheddar cheese and stir until melted. \n5. Mix in cooked macaroni and pour into a baking dish. \n6. Top with breadcrumbs and bake in a preheated oven at 350°F for 20-25 minutes.",
+				"rating": 4.5
 			},
 			{
 				"meal_id": 52995,
-				"recipe_name": "BBQ Pork Sloppy Joes",
-				"meal_pic": "https://www.themealdb.com/images/media/meals/atd5sh1583188467.jpg",
-				"ingredients": {
-					"strIngredient1": "Potatoes",
-					"strIngredient2": "Red Onions",
-					"strIngredient3": "Garlic",
-					"strIngredient4": "Lime",
-					"strIngredient5": "Bread",
-					"strIngredient6": "Pork",
-					"strIngredient7": "Barbeque Sauce",
-					"strIngredient8": "Hotsauce",
-					"strIngredient9": "Tomato Ketchup",
-					"strIngredient10": "Sugar",
-					"strIngredient11": "Vegetable Oil",
-					"strIngredient12": "Salt",
-					"strIngredient13": "Pepper"
-				},
-				"cooking_method": "1\r\n\r\nPreheat oven to 450 degrees. Wash and dry all produce. Cut sweet potatoes into ½-inch-thick wedges. Toss on a baking sheet with a drizzle of oil, salt, and pepper. Roast until browned and tender, 20-25 minutes.\r\n\r\n2\r\n\r\nMeanwhile, halve and peel onion. Slice as thinly as possible until you have ¼ cup (½ cup for 4 servings); finely chop remaining onion. Peel and finely chop garlic. Halve lime; squeeze juice into a small bowl. Halve buns. Add 1 TBSP butter (2 TBSP for 4) to a separate small microwave-safe bowl; microwave until melted, 30 seconds. Brush onto cut sides of buns.\r\n\r\n3\r\n\r\nTo bowl with lime juice, add sliced onion, ¼ tsp sugar (½ tsp for 4 servings), and a pinch of salt. Stir to combine; set aside to quick-pickle.\r\n\r\n4\r\n\r\nHeat a drizzle of oil in a large pan over medium-high heat. Add chopped onion and season with salt and pepper. Cook, stirring, until softened, 4-5 minutes. Add garlic and cook until fragrant, 30 seconds more. Add pork and season with salt and pepper. Cook, breaking up meat into pieces, until browned and cooked through, 4-6 minutes.\r\n\r\n5\r\n\r\nWhile pork cooks, in a third small bowl, combine BBQ sauce, pickling liquid from onion, 3 TBSP ketchup (6 TBSP for 4 servings), ½ tsp sugar (1 tsp for 4), and ¼ cup water (⅓ cup for 4). Once pork is cooked through, add BBQ sauce mixture to pan. Cook, stirring, until sauce is thickened, 2-3 minutes. Taste and season with salt and pepper.\r\n\r\n6\r\n\r\nMeanwhile, toast buns in oven or toaster oven until golden, 3-5 minutes. Divide toasted buns between plates and fill with as much BBQ pork as you’d like. Top with pickled onion and hot sauce. Serve with sweet potato wedges on the side.",
-				"rating": 4
+				"meal_pic": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8R3JpbGxlZCUyMENoZWVzZSUyMFNhbmR3aWNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+				"name": "Grilled Cheese Sandwich",
+				"ingredients": ["Bread", "Butter", "Cheddar Cheese"],
+				"method": "1. Butter one side of each bread slice. \n2. Place one slice of bread, buttered side down, in a frying pan. \n3. Add grated cheddar cheese and cover with the other bread slice, buttered side up. \n4. Cook on medium heat, flipping occasionally, until cheese is melted and bread is golden brown.",
+				"rating": 4.2
 			},
 			{
-				"meal_id": 52812,
-				"recipe_name": "Beef Brisket Pot Roast",
-				"meal_pic": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg",
-				"ingredients": {
-					"strIngredient1": "Beef Brisket",
-					"strIngredient2": "Salt",
-					"strIngredient3": "Onion",
-					"strIngredient4": "Garlic",
-					"strIngredient5": "Thyme",
-					"strIngredient6": "Rosemary",
-					"strIngredient7": "Bay Leaves",
-					"strIngredient8": "beef stock",
-					"strIngredient9": "Carrots",
-					"strIngredient10": "Mustard",
-					"strIngredient11": "Potatoes"
-				},
-				"cooking_method": "1 Prepare the brisket for cooking: On one side of the brisket there should be a layer of fat, which you want. If there are any large chunks of fat, cut them off and discard them. Large pieces of fat will not be able to render out completely.\r\nUsing a sharp knife, score the fat in parallel lines, about 3/4-inch apart. Slice through the fat, not the beef. Repeat in the opposite direction to make a cross-hatch pattern.\r\nSalt the brisket well and let it sit at room temperature for 30 minutes.\r\n \r\n2 Sear the brisket: You'll need an oven-proof, thick-bottomed pot with a cover, or Dutch oven, that is just wide enough to hold the brisket roast with a little room for the onions.\r\nPat the brisket dry and place it, fatty side down, into the pot and place it on medium high heat. Cook for 5-8 minutes, lightly sizzling, until the fat side is nicely browned. (If the roast seems to be cooking too fast, turn the heat down to medium. You want a steady sizzle, not a raging sear.)\r\nTurn the brisket over and cook for a few minutes more to brown the other side.\r\n\r\n3 Sauté the onions and garlic: When the brisket has browned, remove it from the pot and set aside. There should be a couple tablespoons of fat rendered in the pot, if not, add some olive oil.\r\nAdd the chopped onions and increase the heat to high. Sprinkle a little salt on the onions. Sauté, stirring often, until the onions are lightly browned, 5-8 minutes. Stir in the garlic and cook 1-2 more minutes.\r\n \r\n4 Return brisket to pot, add herbs, stock, bring to simmer, cover, cook in oven: Preheat the oven to 300°F. Use kitchen twine to tie together the bay leaves, rosemary and thyme.\r\nMove the onions and garlic to the sides of the pot and nestle the brisket inside. Add the beef stock and the tied-up herbs. Bring the stock to a boil on the stovetop.\r\nCover the pot, place the pot in the 300°F oven and cook for 3 hours. Carefully flip the brisket every hour so it cooks evenly.\r\n \r\n5 Add carrots, continue to cook: After 3 hours, add the carrots. Cover the pot and cook for 1 hour more, or until the carrots are cooked through and the brisket is falling-apart tender.\r\n6 Remove brisket to cutting board, tent with foil: When the brisket is falling-apart tender, take the pot out of the oven and remove the brisket to a cutting board. Cover it with foil. Pull out and discard the herbs.\r\n7 Make sauce (optional): At this point you have two options. You can serve as is, or you can make a sauce with the drippings and some of the onions. If you serve as is, skip this step.\r\nTo make a sauce, remove the carrots and half of the onions, set aside and cover them with foil. Pour the ingredients that are remaining into the pot into a blender, and purée until smooth. If you want, add 1 tablespoon of mustard to the mix. Put into a small pot and keep warm.\r\n8 Slice the meat across the grain: Notice the lines of the muscle fibers of the roast. This is the \"grain\" of the meat. Slice the meat perpendicular to these lines, or across the grain (cutting this way further tenderizes the meat), in 1/4-inch to 1/2-inch slices.\r\nServe with the onions, carrots and gravy. Serve with mashed, roasted or boiled potatoes, egg noodles or polenta.",
-				"rating": 5
+				"meal_id": 52892,
+				"meal_pic": "https://images.unsplash.com/photo-1676300185292-e23bb3db50fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8QmVlZiUyMFN0cm9nYW5vZmZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+				"name": "Beef Stroganoff",
+				"ingredients": ["Beef Sirloin", "Mushrooms", "Onion", "Sour Cream", "Beef Broth", "Egg Noodles"],
+				"method": "1. Cook egg noodles according to package instructions. \n2. In a frying pan, sauté beef sirloin until browned. \n3. Add mushrooms and onions and cook until softened. \n4. Stir in beef broth and sour cream, and simmer until sauce thickens. \n5. Serve beef stroganoff over cooked egg noodles.",
+				"rating": 4.8
 			}
 		]
 	},
@@ -318,62 +161,28 @@
 		"chef_id": 6,
 		"recipes": [
 			{
-				"meal_id": 52855,
-				"recipe_name": "Banana Pancakes",
-				"meal_pic": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
-				"ingredients": {
-					"strIngredient1": "Banana",
-					"strIngredient2": "Eggs",
-					"strIngredient3": "Baking Powder",
-					"strIngredient4": "Vanilla Extract",
-					"strIngredient5": "Oil",
-					"strIngredient6": "Pecan Nuts",
-					"strIngredient7": "Raspberries"
-				},
-				"cooking_method": "In a bowl, mash the banana with a fork until it resembles a thick purée. Stir in the eggs, baking powder and vanilla.\r\nHeat a large non-stick frying pan or pancake pan over a medium heat and brush with half the oil. Using half the batter, spoon two pancakes into the pan, cook for 1-2 mins each side, then tip onto a plate. Repeat the process with the remaining oil and batter. Top the pancakes with the pecans and raspberries.",
-				"rating": 5
+				"meal_id": 52859,
+				"meal_pic": "https://images.unsplash.com/photo-1638439430466-b2bb7fdc1d67?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Um9hc3RlZCUyMENoaWNrZW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+				"name": "Roasted Chicken",
+				"ingredients": ["Whole Chicken", "Olive Oil", "Garlic", "Rosemary", "Lemon", "Salt"],
+				"method": "1. Preheat oven to 375°F. \n2. Rinse chicken and pat dry with paper towels. \n3. Rub chicken with olive oil and season with salt. \n4. Stuff cavity with garlic, rosemary, and lemon. \n5. Roast chicken in preheated oven for 1-1.5 hours, or until internal temperature reaches 165°F. \n6. Let chicken rest for 10 minutes before carving.",
+				"rating": 4.6
 			},
 			{
-				"meal_id": 52995,
-				"recipe_name": "BBQ Pork Sloppy Joes",
-				"meal_pic": "https://www.themealdb.com/images/media/meals/atd5sh1583188467.jpg",
-				"ingredients": {
-					"strIngredient1": "Potatoes",
-					"strIngredient2": "Red Onions",
-					"strIngredient3": "Garlic",
-					"strIngredient4": "Lime",
-					"strIngredient5": "Bread",
-					"strIngredient6": "Pork",
-					"strIngredient7": "Barbeque Sauce",
-					"strIngredient8": "Hotsauce",
-					"strIngredient9": "Tomato Ketchup",
-					"strIngredient10": "Sugar",
-					"strIngredient11": "Vegetable Oil",
-					"strIngredient12": "Salt",
-					"strIngredient13": "Pepper"
-				},
-				"cooking_method": "1\r\n\r\nPreheat oven to 450 degrees. Wash and dry all produce. Cut sweet potatoes into ½-inch-thick wedges. Toss on a baking sheet with a drizzle of oil, salt, and pepper. Roast until browned and tender, 20-25 minutes.\r\n\r\n2\r\n\r\nMeanwhile, halve and peel onion. Slice as thinly as possible until you have ¼ cup (½ cup for 4 servings); finely chop remaining onion. Peel and finely chop garlic. Halve lime; squeeze juice into a small bowl. Halve buns. Add 1 TBSP butter (2 TBSP for 4) to a separate small microwave-safe bowl; microwave until melted, 30 seconds. Brush onto cut sides of buns.\r\n\r\n3\r\n\r\nTo bowl with lime juice, add sliced onion, ¼ tsp sugar (½ tsp for 4 servings), and a pinch of salt. Stir to combine; set aside to quick-pickle.\r\n\r\n4\r\n\r\nHeat a drizzle of oil in a large pan over medium-high heat. Add chopped onion and season with salt and pepper. Cook, stirring, until softened, 4-5 minutes. Add garlic and cook until fragrant, 30 seconds more. Add pork and season with salt and pepper. Cook, breaking up meat into pieces, until browned and cooked through, 4-6 minutes.\r\n\r\n5\r\n\r\nWhile pork cooks, in a third small bowl, combine BBQ sauce, pickling liquid from onion, 3 TBSP ketchup (6 TBSP for 4 servings), ½ tsp sugar (1 tsp for 4), and ¼ cup water (⅓ cup for 4). Once pork is cooked through, add BBQ sauce mixture to pan. Cook, stirring, until sauce is thickened, 2-3 minutes. Taste and season with salt and pepper.\r\n\r\n6\r\n\r\nMeanwhile, toast buns in oven or toaster oven until golden, 3-5 minutes. Divide toasted buns between plates and fill with as much BBQ pork as you’d like. Top with pickled onion and hot sauce. Serve with sweet potato wedges on the side.",
-				"rating": 4
+				"meal_id": 52991,
+				"meal_pic": "https://media.istockphoto.com/id/1320635038/photo/spicy-fish-tacos.jpg?b=1&s=170667a&w=0&k=20&c=GuKGqOwiC54NHhTE9pP6wOB_QrK9oBuzKmUTOZQeZJc=",
+				"name": "Fish Tacos",
+				"ingredients": ["White Fish", "Flour Tortillas", "Cabbage", "Tomato", "Lime", "Cilantro"],
+				"method": "1. Cut white fish into bite-sized pieces and season with salt and pepper. \n2. In a frying pan, cook fish until browned on all sides. \n3. Warm flour tortillas in a separate frying pan. \n4. Assemble tacos by placing fish, shredded cabbage, diced tomato, and chopped cilantro on each tortilla. \n5. Squeeze fresh lime juice over the top of the tacos before serving.",
+				"rating": 4.3
 			},
 			{
-				"meal_id": 52812,
-				"recipe_name": "Beef Brisket Pot Roast",
-				"meal_pic": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg",
-				"ingredients": {
-					"strIngredient1": "Beef Brisket",
-					"strIngredient2": "Salt",
-					"strIngredient3": "Onion",
-					"strIngredient4": "Garlic",
-					"strIngredient5": "Thyme",
-					"strIngredient6": "Rosemary",
-					"strIngredient7": "Bay Leaves",
-					"strIngredient8": "beef stock",
-					"strIngredient9": "Carrots",
-					"strIngredient10": "Mustard",
-					"strIngredient11": "Potatoes"
-				},
-				"cooking_method": "1 Prepare the brisket for cooking: On one side of the brisket there should be a layer of fat, which you want. If there are any large chunks of fat, cut them off and discard them. Large pieces of fat will not be able to render out completely.\r\nUsing a sharp knife, score the fat in parallel lines, about 3/4-inch apart. Slice through the fat, not the beef. Repeat in the opposite direction to make a cross-hatch pattern.\r\nSalt the brisket well and let it sit at room temperature for 30 minutes.\r\n \r\n2 Sear the brisket: You'll need an oven-proof, thick-bottomed pot with a cover, or Dutch oven, that is just wide enough to hold the brisket roast with a little room for the onions.\r\nPat the brisket dry and place it, fatty side down, into the pot and place it on medium high heat. Cook for 5-8 minutes, lightly sizzling, until the fat side is nicely browned. (If the roast seems to be cooking too fast, turn the heat down to medium. You want a steady sizzle, not a raging sear.)\r\nTurn the brisket over and cook for a few minutes more to brown the other side.\r\n\r\n3 Sauté the onions and garlic: When the brisket has browned, remove it from the pot and set aside. There should be a couple tablespoons of fat rendered in the pot, if not, add some olive oil.\r\nAdd the chopped onions and increase the heat to high. Sprinkle a little salt on the onions. Sauté, stirring often, until the onions are lightly browned, 5-8 minutes. Stir in the garlic and cook 1-2 more minutes.\r\n \r\n4 Return brisket to pot, add herbs, stock, bring to simmer, cover, cook in oven: Preheat the oven to 300°F. Use kitchen twine to tie together the bay leaves, rosemary and thyme.\r\nMove the onions and garlic to the sides of the pot and nestle the brisket inside. Add the beef stock and the tied-up herbs. Bring the stock to a boil on the stovetop.\r\nCover the pot, place the pot in the 300°F oven and cook for 3 hours. Carefully flip the brisket every hour so it cooks evenly.\r\n \r\n5 Add carrots, continue to cook: After 3 hours, add the carrots. Cover the pot and cook for 1 hour more, or until the carrots are cooked through and the brisket is falling-apart tender.\r\n6 Remove brisket to cutting board, tent with foil: When the brisket is falling-apart tender, take the pot out of the oven and remove the brisket to a cutting board. Cover it with foil. Pull out and discard the herbs.\r\n7 Make sauce (optional): At this point you have two options. You can serve as is, or you can make a sauce with the drippings and some of the onions. If you serve as is, skip this step.\r\nTo make a sauce, remove the carrots and half of the onions, set aside and cover them with foil. Pour the ingredients that are remaining into the pot into a blender, and purée until smooth. If you want, add 1 tablespoon of mustard to the mix. Put into a small pot and keep warm.\r\n8 Slice the meat across the grain: Notice the lines of the muscle fibers of the roast. This is the \"grain\" of the meat. Slice the meat perpendicular to these lines, or across the grain (cutting this way further tenderizes the meat), in 1/4-inch to 1/2-inch slices.\r\nServe with the onions, carrots and gravy. Serve with mashed, roasted or boiled potatoes, egg noodles or polenta.",
-				"rating": 5
+				"meal_id": 52882,
+				"meal_pic": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fENoaWNrZW4lMjBBbGZyZWRvJTIwUGFzdGF8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+				"name": "Chicken Alfredo Pasta",
+				"ingredients": ["pasta", "chicken breast", "heavy cream", "parmesan cheese", "garlic"],
+				"method": "1. Cook pasta according to package directions. Drain and set aside. \n2. In a large skillet, cook chicken over medium heat until no longer pink. Remove from pan and set aside. \n3. Add garlic to the same skillet and cook for 1-2 minutes. \n4. Add heavy cream and parmesan cheese to the skillet, stirring constantly until the cheese is melted and the sauce is heated through. \n5. Add the cooked pasta and chicken to the skillet, tossing to coat in the sauce. \n6. Serve hot, garnished with additional parmesan cheese if desired.",
+				"rating": 4.5
 			}
 		]
 	}

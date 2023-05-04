@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1,
-		"picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuPOsgxtCH_2QPqrvzDsRxdDh7gWuqVWFdQA&usqp=CAU",
+		"picture": "https://media.istockphoto.com/id/1391235635/photo/portrait-of-black-female-chef-preparing-dish-tasting-food-and-enjoying-it-professional.jpg?b=1&s=170667a&w=0&k=20&c=oIDpaUFUuj3cFrELlrJgJvftBOZrYCWoLeEWjOQ_Q-c=",
 		"name": "Maria Rodriguez",
 		"years_of_experience": 10,
 		"no_of_recipes": 100,
@@ -10,7 +10,7 @@
 	},
 	{
 		"id": 2,
-		"picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpbRwO7TJnACZ9z2wBz1YWp-TwtLv7X3k4-Q&usqp=CAU",
+		"picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
 		"name": "David Lee",
 		"years_of_experience": 8,
 		"no_of_recipes": 75,
@@ -19,7 +19,7 @@
 	},
 	{
 		"id": 3,
-		"picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxIEByeLetFCJ3ZyzezWNQiu0ub79n97H8iQ&usqp=CAU",
+		"picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=1000&q=60",
 		"name": "Sara Kim",
 		"years_of_experience": 6,
 		"no_of_recipes": 60,
@@ -28,8 +28,8 @@
 	},
 	{
 		"id": 4,
-		"picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQAELr-04SU1dp1beAS8E9QRBgiWOCKJ-v2n6E0I1f-o8XSEnpx3vJm_fRWvkS7NiWPqg&usqp=CAU",
-		"name": "Elena Gomez",
+		"picture": "https://images.unsplash.com/photo-1559575003-fb4ee38a747d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDh8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+		"name": "Jhon Kim",
 		"years_of_experience": 12,
 		"no_of_recipes": 120,
 		"likes": 8000,
@@ -37,7 +37,7 @@
 	},
 	{
 		"id": 5,
-		"picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ybyfZSi6EbLpy7HfUjVEfJJTcspuubdNBAMqOUGeK2exgbicCTKrBsvMGE636Q6UPMM&usqp=CAU",
+		"picture": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
 		"name": "Michael Johnson",
 		"years_of_experience": 7,
 		"no_of_recipes": 80,
@@ -46,8 +46,8 @@
 	},
 	{
 		"id": 6,
-		"picture": "image.png",
-		"name": "Luca Rossi",
+		"picture": "https://images.unsplash.com/photo-1574966740793-953ad374e8fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+		"name": "Jhon Doe",
 		"years_of_experience": 9,
 		"no_of_recipes": 90,
 		"likes": 4000,
