@@ -17,8 +17,6 @@ app.get("/recipes/:id", (req, res) => {
 	const id = req.params.id;
 	const selectedRecipes = chefRecipes.find((recipe) => recipe.chef_id == id);
 	res.send(selectedRecipes);
-
-	//get specific chef id data from allchef.json
 });
 
 // Start server
